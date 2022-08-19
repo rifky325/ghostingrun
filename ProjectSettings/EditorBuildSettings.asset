@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2c88853253488da4b84a7973358527aa
+  - enabled: 1
+    path: Assets/Scenes/SwipeMenu.unity
+    guid: b6d69f0b293042e45a1aea815534ae1a
+  - enabled: 1
+    path: Assets/Scenes/Option.unity
+    guid: 70d3ffe48aad6d240934d2080ca88862
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: c09c94024becfbc46ae8e1e3675ec687
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: f7376a5b076083948bc17f215377654d
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gameplay 2.unity
+    guid: d5030e7339d9e4a4ab4cab1a65441bac
+  - enabled: 1
+    path: Assets/Scenes/Gameplay 3.unity
+    guid: b9cfb5afba1f69446b6865b6fffa62ad
+  - enabled: 1
+    path: Assets/Scenes/Informasi 1.unity
+    guid: a4d83af7ad8989c42bc6fae2d65caa27
+  - enabled: 1
+    path: Assets/Scenes/Informasi 2.unity
+    guid: ca188653c94b8da4ab1966b01f1ba02a
+  - enabled: 1
+    path: Assets/Scenes/Informasi 3.unity
+    guid: c794704d69ff229469a91d41d666f4f7
+  m_configObjects: {}
